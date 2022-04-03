@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @reevda
 - 👀 I’m interested in coding with open source tools
-- 🌱 I’m currently learning Symfony (PHP framework), React
+- 🌱 I’m currently using Symfony (PHP framework) and React
 - 💞️ I’m looking to collaborate on nothing for now
 
 <!---
